@@ -12,9 +12,8 @@ Hi, I'm a passionate developer with a keen interest in building interactive web 
 This project is a showcase of my skills in Java and web development, with a focus on building intuitive and engaging user interfaces.
 
 **Contact:**
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- GitHub: [your-github-profile]
+- Email: hritkch814@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hritik-c-h/
+- GitHub: https://github.com/HRITIK-CH/
 
 Feel free to reach out if you'd like to collaborate or have any questions!
-@gmail- hritkch814@gmail.com
