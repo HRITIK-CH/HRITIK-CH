@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @HRITIK-CH
-- 👀 I’m interested in 
-- 🌱 I’m currently learning B.E CSE
-- 📫 How to reach me hritikch814@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-HRITIK-CH/HRITIK-CH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository hosts a unique project for managing and tracking tasks through a Java backend and interactive frontend. It integrates dynamic task functionalities such as adding, editing, deleting, and marking tasks as completed, all designed to enhance user experience with a modern, neon-inspired UI.
